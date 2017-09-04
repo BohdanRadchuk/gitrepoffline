@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Это ёлочка");
+        System.out.println("Этоhjhjhhkhjfhggh лочка");
         System.out.println("       /\\    " ) ;
         System.out.println("      /  \\   " ) ;
         System.out.println("     / || \\ ");
